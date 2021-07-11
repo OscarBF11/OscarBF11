@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OscarBF11
 - 👀 I’m interested in Java, Python, C# .NET and others programming languages and technologies
-- 🌱 I’m currently learning Spring Framework for Java
+- 🌱 I’m currently learning Spring Framework for Java and .NET C#
 <!--- - 💞️ I’m looking to collaborate on ...
 Projects, intensive bootcamp and new programming languages
 - 📫 How to reach me ...
