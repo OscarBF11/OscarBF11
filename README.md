@@ -20,4 +20,4 @@ I work in product and platform: I design architectures, deploy infrastructure as
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/oscarbf/
-- Web: https://www.anscon.es - my small consulting startup.
+- Web: https://www.anscon.es/ - my small consulting startup focused in build things simple, smart and efficient with the power of AI.
