@@ -1,5 +1,5 @@
 # I'm Óscar
-I work in product and platform: I design architectures, deploy infrastructure as code, and write backend/frontend with a focus on maintainability, security, and cost. Future CTO.
+I work in product and platform: I design architectures, deploy infrastructure as code, and write backend/frontend with a focus on maintainability, security, and cost.
 
 ## Areas
 - Cloud/DevOps: AWS (Organizations, Cognito, API GW, Lambda, CloudFront, S3, KMS, CloudTrail), Terraform, Docker, GitHub Actions.
